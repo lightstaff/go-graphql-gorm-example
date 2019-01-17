@@ -1,0 +1,9 @@
+# IDE
+.vscode
+
+# Vendor
+vendor
+
+# Debug
+debug.test
+
